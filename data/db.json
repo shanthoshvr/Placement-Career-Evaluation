@@ -1,0 +1,23 @@
+{
+  "users": {
+    "santhoshvr2005@gmail.com": {
+      "id": "user_l1x8gcu4vsf",
+      "fullname": "shanthosh",
+      "email": "santhoshvr2005@gmail.com",
+      "passwordHash": "8c519c45233ff32701a2470bf464ab4615f06043f2251cf0faa53b3d0cb01b180342e84bdb91871aa1b55e58839f82c2b9471373d2f087878e4e07b6e436d3fc",
+      "degree": "B.E. Computer Science & Engineering",
+      "current_phase": 1
+    }
+  },
+  "resumes": {},
+  "interviews": {},
+  "assessmentHistory": {
+    "user_l1x8gcu4vsf": {
+      "aptitude_score": 4,
+      "aptitude_total": 5,
+      "coding_score": null,
+      "coding_total": 3
+    }
+  },
+  "placements": []
+}

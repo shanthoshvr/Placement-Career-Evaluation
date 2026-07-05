@@ -1,0 +1,6 @@
+{
+  "name": "PACE Placement Suite",
+  "description": "PACE (Placement & Career Evaluation Suite) - Comprehensive automated screening, coding compiler sandbox, and resume-driven AI mock interview system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
